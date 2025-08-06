@@ -7,11 +7,11 @@
     user-select:none;  
 }
 .navbar .logo {
-    border-radius: 85%;
+    border-radius: 5px;
 }
 .home .hero img {
     width: 300px;
-    border-radius: 85%;
+    border-radius: 5px;
 }
 /* .diy-sidebar {
     width: 50px;
